@@ -1,0 +1,24 @@
+{
+  "name": "react-chronic-snippets",
+  "version": "1.0.0",
+  "description": "Just some React + React Hooks + React Native snippets for coding in VSCode.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Chronic-React/react-chronic-snippets.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "hooks",
+    "es6"
+  ],
+  "author": "Dilraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chronic-React/react-chronic-snippets/issues"
+  },
+  "homepage": "https://github.com/Chronic-React/react-chronic-snippets#readme"
+}
